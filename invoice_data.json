@@ -1,0 +1,15 @@
+{
+    "vendor_name": "Larkfield Stationers",
+    "invoice_number": "INV-2026-0142",
+    "invoice_date": "18 September 2026",
+    "subtotal": 14702.0,
+    "tax": 2646.36,
+    "total_amount": 17348.36,
+    "validation": {
+        "missing_fields": [],
+        "total_status": "Invoice total is correct",
+        "is_valid": true
+    }
+}
+
+
